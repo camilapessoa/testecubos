@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "testecubos",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilapessoa/testecubos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilapessoa/testecubos/issues"
+  },
+  "homepage": "https://github.com/camilapessoa/testecubos#readme",
+  "description": ""
+}
